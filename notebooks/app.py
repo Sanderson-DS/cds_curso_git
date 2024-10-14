@@ -1,1 +1,0 @@
-print('Sanderson bem vindo')
