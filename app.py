@@ -8,12 +8,11 @@ def load_data():
 def main():
   df = load_data()
 
+  st.dataframe(df)
 
 
-df = load_data()
-
-st.dataframe(df)
-
+if __name__ -- 'main':
+  main()
 
 
 
